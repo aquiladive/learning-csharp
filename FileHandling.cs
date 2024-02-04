@@ -1,3 +1,5 @@
+//Program to take user input and write it into a file.
+
 using System;
 using System.IO;
 
