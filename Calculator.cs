@@ -1,3 +1,5 @@
+//Program to create a simple calculator capable of adding, subtracting, multiplying, dividing or finding the mod of two numbers.
+
 using System;
 class Calculator {
     static void Main(string[] args) {
