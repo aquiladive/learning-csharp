@@ -1,3 +1,5 @@
+//Program to create Pascal's Triangle using jagged array.
+
 using System;
 namespace JaggedArray {
     public class Program {
