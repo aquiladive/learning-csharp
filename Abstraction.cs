@@ -1,3 +1,5 @@
+//Program to show abstraction, using an abstract class Shape with two derived classes Triangle and Circle.
+
 using System;
 abstract class Shape {
     public abstract double CalculateArea();
